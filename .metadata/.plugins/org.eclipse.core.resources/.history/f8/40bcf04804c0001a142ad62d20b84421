@@ -1,0 +1,5 @@
+package com.aforo255.security.jwt.utils;
+
+public class TokenUtils {
+
+}

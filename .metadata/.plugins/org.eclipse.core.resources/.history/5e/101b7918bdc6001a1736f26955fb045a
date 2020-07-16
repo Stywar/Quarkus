@@ -1,0 +1,35 @@
+package com.aforo255.account.domain;
+
+public class Account {
+
+	
+	private Integer IdAccount;	
+	private double TotalAmount;	
+	private Integer IdCustomer;	
+	private Customer customer;
+	public Integer getIdAccount() {
+		return IdAccount;
+	}
+	public void setIdAccount(Integer idAccount) {
+		IdAccount = idAccount;
+	}
+	public double getTotalAmount() {
+		return TotalAmount;
+	}
+	public void setTotalAmount(double totalAmount) {
+		TotalAmount = totalAmount;
+	}
+	public Integer getIdCustomer() {
+		return IdCustomer;
+	}
+	public void setIdCustomer(Integer idCustomer) {
+		IdCustomer = idCustomer;
+	}
+	public Customer getCustomer() {
+		return customer;
+	}
+	public void setCustomer(Customer customer) {
+		this.customer = customer;
+	}
+	
+}

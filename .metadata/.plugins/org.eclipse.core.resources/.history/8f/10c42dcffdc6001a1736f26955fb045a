@@ -1,0 +1,23 @@
+package com.aforo255.account.repository;
+
+import java.util.List;
+
+import javax.enterprise.context.ApplicationScoped;
+
+import com.aforo255.account.domain.Account;
+
+import io.quarkus.hibernate.orm.panache.PanacheRepository;
+
+@ApplicationScoped
+public class AccountRepository implements PanacheRepository<Account> {
+
+	public List<Account> findAllAccount() {
+		return findAll().list();
+	}
+	
+	public Account findById(Integer id) {
+		
+		return findById(id);
+	}
+
+}

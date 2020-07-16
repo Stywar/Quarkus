@@ -1,0 +1,20 @@
+# Configuration file
+# key = value
+#https://www.coinlore.com/cryptocurrency-data-api
+#https://www.coinlore.com/cryptocurrency-data-api
+#com.aforo255.account.services.AccountService/mp-rest/url=http://api.coinlore.net/api/
+#com.aforo255.account.services.AccountService/mp-rest/scope=javax.inject.Singleton
+config.api.crypto/mp-rest/url=https://api.coinlore.net/api/
+config.api.crypto/mp-rest/scope=javax.inject.Singleton
+
+mp.jwt.verify.publickey.location=http://localhost:8081/publicKey.pem
+mp.jwt.verify.issuer=aforo255
+quarkus.smallrye-jwt.enabled=true
+
+quarkus.datasource.url=jdbc:postgresql://localhost:5432/db_account
+quarkus.datasource.username=postgres
+quarkus.datasource.password=123456
+quarkus.datasource.driver=org.postgresql.Driver
+quarkus.hibernate-orm.dialect=org.hibernate.dialect.PostgreSQL95Dialect
+quarkus.hibernate-orm.database.generation=create
+

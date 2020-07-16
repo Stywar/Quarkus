@@ -1,0 +1,28 @@
+package com.aforo255.account;
+
+import java.util.List;
+
+import javax.inject.Inject;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import com.aforo255.account.domain.Account;
+import com.aforo255.account.repository.AccountRepository;
+
+@Path("/account")
+public class AccountResource {
+
+	@Inject
+	AccountRepository accountRepository;
+
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	@Path("/listar")
+	public List<Account> listar() {
+
+		return accountRepository.findAllAccount();
+	}
+
+}

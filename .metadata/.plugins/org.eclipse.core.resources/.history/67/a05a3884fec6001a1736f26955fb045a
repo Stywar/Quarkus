@@ -1,0 +1,9 @@
+package com.aforo255.account;
+
+import javax.ws.rs.Path;
+
+@Path("/account")
+public class AccountResource {
+
+	
+}

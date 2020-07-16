@@ -1,0 +1,5 @@
+package com.aforo255.account.document;
+
+public class DTransaction {
+
+}

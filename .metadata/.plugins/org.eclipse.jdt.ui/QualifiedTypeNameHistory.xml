@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.eclipse.microprofile.rest.client.inject.RegisterRestClient"/>
+    <fullyQualifiedTypeName name="javax.json.bind.annotation.JsonbProperty"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.Media"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.domain.Currency"/>
+    <fullyQualifiedTypeName name="javax.inject.Inject"/>
+    <fullyQualifiedTypeName name="org.eclipse.microprofile.rest.client.inject.RestClient"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.services.AccountService"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.QueryParam"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.services.CurrencyService"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="tech.donau.crypto.data.Currency"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.CompletionStage"/>
+    <fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
+    <fullyQualifiedTypeName name="javax.enterprise.context.ApplicationScoped"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
+    <fullyQualifiedTypeName name="javax.websocket.Session"/>
+    <fullyQualifiedTypeName name="javax.websocket.OnOpen"/>
+    <fullyQualifiedTypeName name="javax.websocket.server.PathParam"/>
+    <fullyQualifiedTypeName name="javax.websocket.OnMessage"/>
+    <fullyQualifiedTypeName name="javax.websocket.OnClose"/>
+    <fullyQualifiedTypeName name="javax.websocket.OnError"/>
+    <fullyQualifiedTypeName name="javax.annotation.security.RolesAllowed"/>
+    <fullyQualifiedTypeName name="com.aforo255.security.jwt.utils.TokenUtils"/>
+    <fullyQualifiedTypeName name="com.aforo255.security.service.TokenService"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.domain.Customers"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.domain.Customer"/>
+</qualifiedTypeNameHistroy>

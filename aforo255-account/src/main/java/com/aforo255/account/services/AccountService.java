@@ -22,6 +22,12 @@ public class AccountService implements IAccountService {
 		// TODO Auto-generated method stub
 		return accountRepository.findById(id);
 	}
+	@Override
+	public Account mergeAccount(Account account) {
+		// TODO Auto-generated method stub
+		account.persist();
+		return account;
+	}
 
 	
 }

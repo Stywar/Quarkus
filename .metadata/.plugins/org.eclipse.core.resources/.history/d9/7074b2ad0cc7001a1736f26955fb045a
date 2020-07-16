@@ -27,14 +27,14 @@ public class AccountResource {
 		return accountService.findAllAccount();
 	}
 
-	@GET
+	/*@GET
 	@Path("/ver/{id}")
 	@Produces(MediaType.APPLICATION_JSON)
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Account detalle(@PathParam("id") Integer id) {
 
-		Account account = accountService.findAccountById(id);
+		Account account = accountRepository.findAccountById(id);
 		return account;
 	}
-
+*/
 }

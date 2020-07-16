@@ -11,16 +11,11 @@ import com.aforo255.account.repository.AccountRepository;
 public class AccountService implements IAccountService {
 
 	@Inject
-	AccountRepository accountRepository;
+	AccountRepository account;
 	@Override
 	public List<Account> findAllAccount() {
 		// TODO Auto-generated method stub
-		return accountRepository.findAll().list();
-	}
-	@Override
-	public Account findAccountById(Integer id) {
-		// TODO Auto-generated method stub
-		return accountRepository.findById(id);
+		return account.findAllAccount();
 	}
 
 	

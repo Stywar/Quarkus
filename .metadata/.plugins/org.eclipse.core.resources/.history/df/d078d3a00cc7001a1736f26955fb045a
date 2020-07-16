@@ -11,6 +11,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 import com.aforo255.account.domain.Account;
+import com.aforo255.account.repository.AccountRepository;
 import com.aforo255.account.services.IAccountService;
 
 @Path("/account")
@@ -27,14 +28,14 @@ public class AccountResource {
 		return accountService.findAllAccount();
 	}
 
-	@GET
+	/*@GET
 	@Path("/ver/{id}")
 	@Produces(MediaType.APPLICATION_JSON)
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Account detalle(@PathParam("id") Integer id) {
 
-		Account account = accountService.findAccountById(id);
+		Account account = accountRepository.findAccountById(id);
 		return account;
 	}
-
+*/
 }

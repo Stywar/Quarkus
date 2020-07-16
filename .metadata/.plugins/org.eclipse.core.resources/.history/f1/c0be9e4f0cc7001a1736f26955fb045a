@@ -11,20 +11,20 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 import com.aforo255.account.domain.Account;
-import com.aforo255.account.services.IAccountService;
+import com.aforo255.account.repository.AccountRepository;
 
 @Path("/account")
 public class AccountResource {
 
 	@Inject
-	IAccountService accountService;
+	AccountRepository accountRepository;
 
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
 	@Path("/listar")
 	public   List<Account> listar() {
 		
-		return accountService.findAllAccount();
+		return accountRepository.findAllAccount();
 	}
 
 	@GET
@@ -33,7 +33,7 @@ public class AccountResource {
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Account detalle(@PathParam("id") Integer id) {
 
-		Account account = accountService.findAccountById(id);
+		Account account = accountRepository.findAccountById(id);
 		return account;
 	}
 

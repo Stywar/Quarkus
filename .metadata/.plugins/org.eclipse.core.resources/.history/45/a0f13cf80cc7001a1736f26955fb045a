@@ -15,7 +15,7 @@ public class AccountService implements IAccountService {
 	@Override
 	public List<Account> findAllAccount() {
 		// TODO Auto-generated method stub
-		return accountRepository.findAll().list();
+		return accountRepository.findAllAccount();
 	}
 	@Override
 	public Account findAccountById(Integer id) {

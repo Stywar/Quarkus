@@ -1,7 +1,6 @@
 package com.aforo255.account;
 
 import java.util.List;
-
 import javax.inject.Inject;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
@@ -31,9 +30,9 @@ public class AccountResource {
 	@Path("/ver/{id}")
 	@Produces(MediaType.APPLICATION_JSON)
 	@Consumes(MediaType.APPLICATION_JSON)
-	public Account detalle(@PathParam("id") Integer id) {
+	public  Account detalle(@PathParam("id") Integer id) {
 
-		Account account = accountService.findAccountById(id);
+	 Account account = accountService.findAccountById(id);
 		return account;
 	}
 

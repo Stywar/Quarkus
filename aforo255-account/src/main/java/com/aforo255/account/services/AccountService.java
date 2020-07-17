@@ -1,7 +1,6 @@
 package com.aforo255.account.services;
 
 import java.util.List;
-
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 
@@ -18,7 +17,7 @@ public class AccountService implements IAccountService {
 		return accountRepository.findAll().list();
 	}
 	@Override
-	public Account findAccountById(Integer id) {
+	public  Account findAccountById(Integer id) {
 		// TODO Auto-generated method stub
 		return accountRepository.findById(id);
 	}

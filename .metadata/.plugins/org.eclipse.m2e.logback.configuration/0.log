@@ -5584,3 +5584,298 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2020-07-15 21:35:12,178 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2020-07-15 21:35:12,179 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-15 21:35:12,179 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 21:48:41,252 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:48:41,253 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 21:48:41,254 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:48:41,254 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 21:54:52,158 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:54:52,160 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 21:54:52,171 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:54:52,172 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 21:55:35,098 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:55:35,099 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 21:55:35,100 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:55:35,100 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 21:56:28,510 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:56:28,510 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 21:56:28,512 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:56:28,512 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 21:56:52,760 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:56:52,761 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 21:56:52,763 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:56:52,763 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 21:58:22,617 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:58:22,617 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 21:58:22,619 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 21:58:22,619 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:05:45,592 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:05:45,593 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:05:45,594 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:05:45,594 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:05:46,630 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:05:46,631 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:05:46,632 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:05:46,632 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:07:46,639 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:07:46,639 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:07:46,641 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:07:46,641 [Worker-157: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:10:16,042 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:10:16,043 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:10:16,045 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:10:16,045 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:12:20,872 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:12:20,873 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:12:20,875 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:12:20,875 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:28:18,394 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:28:18,394 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:28:18,396 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:28:18,396 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:29:27,650 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:29:27,651 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:29:27,653 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:29:27,653 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:35:15,859 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:35:15,860 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:35:15,861 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:35:15,862 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:38:04,729 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:38:04,729 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:38:04,730 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:38:04,731 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:38:05,780 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:38:05,780 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:38:05,781 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:38:05,781 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:40:17,296 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:40:17,296 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:40:17,297 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:40:17,297 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:40:36,627 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:40:36,627 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:40:36,628 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:40:36,628 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:40:44,940 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:40:44,941 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:40:44,942 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:40:44,942 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:41:22,346 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:41:22,346 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:41:22,347 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:41:22,347 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:43:20,520 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:43:20,521 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:43:20,523 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:43:20,523 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:43:21,608 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:43:21,609 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-15 22:43:21,609 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:43:21,609 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-15 22:43:31,674 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:43:31,675 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-15 22:43:31,676 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-15 22:43:31,676 [Worker-182: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 19:52:44,503 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-16 19:53:09,426 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 19:53:09,432 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 19:53:09,478 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 19:53:09,479 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 19:53:13,896 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 19:53:13,897 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-16 19:53:13,900 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 19:53:13,900 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-security\src\test\resources
+2020-07-16 19:53:17,081 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 19:53:17,081 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-07-16 19:53:17,084 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 19:53:17,084 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\lecture-security-jwt-master\src\test\resources
+2020-07-16 22:04:40,687 [Worker-43: Creating Quarkus project...] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\hello\pom.xml.
+2020-07-16 22:04:47,883 [Worker-43: Creating Quarkus project...] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello/src/main/java
+2020-07-16 22:04:47,883 [Worker-43: Creating Quarkus project...] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /hello/src/main/resources
+2020-07-16 22:04:47,925 [Worker-43: Creating Quarkus project...] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello/src/test/java
+2020-07-16 22:04:55,472 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:04:55,473 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-16 22:04:55,557 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:04:55,557 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\hello\src\test\resources
+2020-07-16 22:04:55,841 [Worker-43: Creating Quarkus project...] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2020-07-16 22:04:55,931 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:04:55,933 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 22:04:55,935 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:04:55,935 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\hello\src\test\resources
+2020-07-16 22:31:29,873 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aforo255.account:aforo255-account:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\aforo255-account\pom.xml.
+2020-07-16 22:31:34,851 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache/1.5.1.Final/quarkus-mongodb-panache-1.5.1.Final.pom
+2020-07-16 22:31:35,156 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache/1.5.1.Final/quarkus-mongodb-panache-1.5.1.Final.pom
+2020-07-16 22:31:35,362 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-parent/1.5.1.Final/quarkus-mongodb-panache-parent-1.5.1.Final.pom
+2020-07-16 22:31:35,526 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-parent/1.5.1.Final/quarkus-mongodb-panache-parent-1.5.1.Final.pom
+2020-07-16 22:31:35,654 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client/1.5.1.Final/quarkus-mongodb-client-1.5.1.Final.pom
+2020-07-16 22:31:35,809 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client/1.5.1.Final/quarkus-mongodb-client-1.5.1.Final.pom
+2020-07-16 22:31:35,945 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-parent/1.5.1.Final/quarkus-mongodb-client-parent-1.5.1.Final.pom
+2020-07-16 22:31:36,061 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-parent/1.5.1.Final/quarkus-mongodb-client-parent-1.5.1.Final.pom
+2020-07-16 22:31:36,194 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-1.5.1.Final.pom
+2020-07-16 22:31:36,341 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-1.5.1.Final.pom
+2020-07-16 22:31:36,477 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-parent/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-parent-1.5.1.Final.pom
+2020-07-16 22:31:36,629 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-parent/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-parent-1.5.1.Final.pom
+2020-07-16 22:31:36,767 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/smallrye/reactive/mutiny-reactive-streams-operators/0.5.0/mutiny-reactive-streams-operators-0.5.0.pom
+2020-07-16 22:31:36,900 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/smallrye/reactive/mutiny-reactive-streams-operators/0.5.0/mutiny-reactive-streams-operators-0.5.0.pom
+2020-07-16 22:31:37,036 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.0.3/mongodb-driver-sync-4.0.3.pom
+2020-07-16 22:31:37,337 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.0.3/mongodb-driver-sync-4.0.3.pom
+2020-07-16 22:31:37,543 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.0.1/mongodb-driver-core-4.0.1.pom
+2020-07-16 22:31:37,701 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.0.1/mongodb-driver-core-4.0.1.pom
+2020-07-16 22:31:37,880 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-crypt/1.0.1/mongodb-crypt-1.0.1.pom
+2020-07-16 22:31:38,022 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-crypt/1.0.1/mongodb-crypt-1.0.1.pom
+2020-07-16 22:31:38,183 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.pom
+2020-07-16 22:31:38,475 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.pom
+2020-07-16 22:31:38,595 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-panacheql/1.5.1.Final/quarkus-panacheql-1.5.1.Final.pom
+2020-07-16 22:31:38,717 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-panacheql/1.5.1.Final/quarkus-panacheql-1.5.1.Final.pom
+2020-07-16 22:31:38,848 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.pom
+2020-07-16 22:31:39,083 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.pom
+2020-07-16 22:31:39,211 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.7.2/antlr4-master-4.7.2.pom
+2020-07-16 22:31:39,339 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.7.2/antlr4-master-4.7.2.pom
+2020-07-16 22:31:39,877 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/smallrye/reactive/mutiny-reactive-streams-operators/0.5.0/mutiny-reactive-streams-operators-0.5.0.jar
+2020-07-16 22:31:39,984 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.0.3/mongodb-driver-sync-4.0.3.jar
+2020-07-16 22:31:40,013 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-1.5.1.Final.jar
+2020-07-16 22:31:40,101 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client/1.5.1.Final/quarkus-mongodb-client-1.5.1.Final.jar
+2020-07-16 22:31:40,101 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache/1.5.1.Final/quarkus-mongodb-panache-1.5.1.Final.jar
+2020-07-16 22:31:40,708 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-1.5.1.Final.jar
+2020-07-16 22:31:40,886 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.0.1/mongodb-driver-core-4.0.1.jar
+2020-07-16 22:31:40,939 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/smallrye/reactive/mutiny-reactive-streams-operators/0.5.0/mutiny-reactive-streams-operators-0.5.0.jar
+2020-07-16 22:31:40,953 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client/1.5.1.Final/quarkus-mongodb-client-1.5.1.Final.jar
+2020-07-16 22:31:41,466 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache/1.5.1.Final/quarkus-mongodb-panache-1.5.1.Final.jar
+2020-07-16 22:31:41,468 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-crypt/1.0.1/mongodb-crypt-1.0.1.jar
+2020-07-16 22:31:41,480 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.0.3/mongodb-driver-sync-4.0.3.jar
+2020-07-16 22:31:41,804 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+2020-07-16 22:31:42,013 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar
+2020-07-16 22:31:42,014 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-panacheql/1.5.1.Final/quarkus-panacheql-1.5.1.Final.jar
+2020-07-16 22:31:46,090 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-panacheql/1.5.1.Final/quarkus-panacheql-1.5.1.Final.jar
+2020-07-16 22:31:46,316 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar
+2020-07-16 22:31:54,796 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.0.1/mongodb-driver-core-4.0.1.jar
+2020-07-16 22:31:55,048 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-crypt/1.0.1/mongodb-crypt-1.0.1.jar
+2020-07-16 22:31:55,460 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+2020-07-16 22:31:57,449 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:31:57,449 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 22:31:57,455 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:31:57,455 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:32:01,378 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:32:01,382 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:32:01,409 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:32:01,409 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:32:01,748 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-deployment/1.5.1.Final/quarkus-mongodb-panache-deployment-1.5.1.Final.pom
+2020-07-16 22:32:01,913 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache/1.5.1.Final/quarkus-mongodb-panache-1.5.1.Final-sources.jar
+2020-07-16 22:32:02,062 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-deployment/1.5.1.Final/quarkus-mongodb-panache-deployment-1.5.1.Final.pom
+2020-07-16 22:32:02,582 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache/1.5.1.Final/quarkus-mongodb-panache-1.5.1.Final-sources.jar
+2020-07-16 22:32:02,672 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-mongodb-panache:1.5.1.Final
+2020-07-16 22:32:02,934 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-deployment/1.5.1.Final/quarkus-mongodb-panache-deployment-1.5.1.Final.jar
+2020-07-16 22:32:03,210 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client/1.5.1.Final/quarkus-mongodb-client-1.5.1.Final-sources.jar
+2020-07-16 22:32:03,595 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-deployment/1.5.1.Final/quarkus-mongodb-panache-deployment-1.5.1.Final.jar
+2020-07-16 22:32:03,931 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client/1.5.1.Final/quarkus-mongodb-client-1.5.1.Final-sources.jar
+2020-07-16 22:32:04,027 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-mongodb-client:1.5.1.Final
+2020-07-16 22:32:04,378 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-deployment/1.5.1.Final/quarkus-mongodb-panache-deployment-1.5.1.Final-sources.jar
+2020-07-16 22:32:04,670 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-panache-deployment/1.5.1.Final/quarkus-mongodb-panache-deployment-1.5.1.Final-sources.jar
+2020-07-16 22:32:04,848 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-1.5.1.Final-sources.jar
+2020-07-16 22:32:05,155 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-1.5.1.Final-sources.jar
+2020-07-16 22:32:05,247 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-mutiny-reactive-streams-operators:1.5.1.Final
+2020-07-16 22:32:05,370 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-deployment/1.5.1.Final/quarkus-mongodb-client-deployment-1.5.1.Final.pom
+2020-07-16 22:32:05,620 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-deployment/1.5.1.Final/quarkus-mongodb-client-deployment-1.5.1.Final.pom
+2020-07-16 22:32:05,731 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/smallrye/reactive/mutiny-reactive-streams-operators/0.5.0/mutiny-reactive-streams-operators-0.5.0-sources.jar
+2020-07-16 22:32:06,202 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-deployment/1.5.1.Final/quarkus-mongodb-client-deployment-1.5.1.Final.jar
+2020-07-16 22:32:06,423 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/smallrye/reactive/mutiny-reactive-streams-operators/0.5.0/mutiny-reactive-streams-operators-0.5.0-sources.jar
+2020-07-16 22:32:06,525 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.smallrye.reactive:mutiny-reactive-streams-operators:0.5.0
+2020-07-16 22:32:06,630 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-deployment/1.5.1.Final/quarkus-mongodb-client-deployment-1.5.1.Final.jar
+2020-07-16 22:32:07,031 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.0.3/mongodb-driver-sync-4.0.3-sources.jar
+2020-07-16 22:32:07,213 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-deployment/1.5.1.Final/quarkus-mongodb-client-deployment-1.5.1.Final-sources.jar
+2020-07-16 22:32:07,521 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mongodb-client-deployment/1.5.1.Final/quarkus-mongodb-client-deployment-1.5.1.Final-sources.jar
+2020-07-16 22:32:07,643 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-sync/4.0.3/mongodb-driver-sync-4.0.3-sources.jar
+2020-07-16 22:32:07,721 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-sync:4.0.3
+2020-07-16 22:32:08,337 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-deployment/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-deployment-1.5.1.Final.pom
+2020-07-16 22:32:08,617 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.0.1/mongodb-driver-core-4.0.1-sources.jar
+2020-07-16 22:32:08,759 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-deployment/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-deployment-1.5.1.Final.pom
+2020-07-16 22:32:09,256 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-deployment/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-deployment-1.5.1.Final.jar
+2020-07-16 22:32:09,546 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-deployment/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-deployment-1.5.1.Final.jar
+2020-07-16 22:32:10,543 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-deployment/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-deployment-1.5.1.Final-sources.jar
+2020-07-16 22:32:10,797 [Worker-58: MicroProfile properties collector] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-mutiny-reactive-streams-operators-deployment/1.5.1.Final/quarkus-mutiny-reactive-streams-operators-deployment-1.5.1.Final-sources.jar
+2020-07-16 22:32:12,149 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.0.1/mongodb-driver-core-4.0.1-sources.jar
+2020-07-16 22:32:12,241 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-core:4.0.1
+2020-07-16 22:32:13,008 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-crypt/1.0.1/mongodb-crypt-1.0.1-sources.jar
+2020-07-16 22:32:14,148 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-crypt/1.0.1/mongodb-crypt-1.0.1-sources.jar
+2020-07-16 22:32:14,596 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-crypt:1.0.1
+2020-07-16 22:32:15,101 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1-sources.jar
+2020-07-16 22:32:15,973 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1-sources.jar
+2020-07-16 22:32:16,038 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.java.dev.jna:jna:5.3.1
+2020-07-16 22:32:16,788 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-panacheql/1.5.1.Final/quarkus-panacheql-1.5.1.Final-sources.jar
+2020-07-16 22:32:17,849 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-panacheql/1.5.1.Final/quarkus-panacheql-1.5.1.Final-sources.jar
+2020-07-16 22:32:17,915 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-panacheql:1.5.1.Final
+2020-07-16 22:32:18,392 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2-sources.jar
+2020-07-16 22:32:19,527 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2-sources.jar
+2020-07-16 22:32:19,595 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr4-runtime:4.7.2
+2020-07-16 22:32:21,551 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:32:21,551 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 22:32:21,553 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:32:21,553 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:37:09,854 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:37:09,855 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:37:09,857 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:37:09,857 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:37:21,155 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:37:21,156 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:37:21,158 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:37:21,158 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:41:07,890 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:41:07,892 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:41:07,898 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:41:07,898 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:43:35,323 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:43:35,323 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-16 22:43:35,327 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:43:35,327 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:44:40,661 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:44:40,662 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:44:40,663 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:44:40,663 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:49:28,928 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:49:28,929 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:49:28,930 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:49:28,931 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:50:12,095 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:50:12,096 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:50:12,103 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:50:12,103 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 22:59:26,658 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:59:26,659 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 22:59:26,660 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 22:59:26,660 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:03:09,109 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:03:09,110 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:03:09,111 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:03:09,112 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:15:06,781 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:15:06,781 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:15:06,782 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:15:06,783 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:15:14,360 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:15:14,360 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:15:14,362 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:15:14,363 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:16:52,661 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:16:52,662 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:16:52,663 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:16:52,664 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:18:46,464 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:18:46,465 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:18:46,467 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:18:46,467 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:19:16,262 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:19:16,265 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:19:16,267 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:19:16,268 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:21:53,547 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:21:53,550 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:21:53,551 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:21:53,551 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:21:54,661 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:21:54,663 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:21:54,664 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:21:54,665 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources
+2020-07-16 23:25:52,717 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:25:52,719 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-07-16 23:25:52,720 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 23:25:52,721 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-account\src\test\resources

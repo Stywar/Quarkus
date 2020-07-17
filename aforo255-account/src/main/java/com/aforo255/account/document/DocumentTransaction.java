@@ -1,7 +1,14 @@
 package com.aforo255.account.document;
 
-public class DTransaction {
+import org.bson.codecs.pojo.annotations.BsonId;
 
+import io.quarkus.mongodb.panache.MongoEntity;
+import io.quarkus.mongodb.panache.PanacheMongoEntityBase;
+
+@MongoEntity(collection="transaction") 
+public class DocumentTransaction extends PanacheMongoEntityBase  {
+
+	@BsonId
 	private String id ;
 	private double amount ;
 	private String type ;

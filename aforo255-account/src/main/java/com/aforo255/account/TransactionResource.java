@@ -8,6 +8,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
+import com.aforo255.account.document.DocumentTransaction;
 import com.aforo255.account.domain.Account;
 import com.aforo255.account.domain.Transaction;
 import com.aforo255.account.services.IAccountService;
@@ -45,13 +46,29 @@ public class TransactionResource {
 
 				}
 
-				objAccount.setTotalAmount(newmonto);				
+				objAccount.setTotalAmount(newmonto);
 				account.mergeAccount(objAccount);
+
+				DocumentTransaction document = setDocument(trx);
+				service.saveDocument(document);
+				
 
 			}
 		}
 
 		return trx;
+	}
+
+	private DocumentTransaction setDocument(Transaction trx) {
+		DocumentTransaction document = new DocumentTransaction();
+		document.setId(trx.getId().toString());
+		document.setAccountId(trx.getAccountId());
+		document.setAmount(trx.getAmount());
+		document.setCreationDate(trx.getCreationDate());
+		document.setType(trx.getType());
+
+		return document;
+
 	}
 
 }

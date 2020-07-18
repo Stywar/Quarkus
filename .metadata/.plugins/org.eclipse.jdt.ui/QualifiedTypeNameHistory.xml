@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="org.eclipse.microprofile.rest.client.inject.RegisterRestClient"/>
     <fullyQualifiedTypeName name="javax.json.bind.annotation.JsonbProperty"/>
     <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
-    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
     <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
     <fullyQualifiedTypeName name="javax.print.attribute.standard.Media"/>
     <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
@@ -16,10 +15,8 @@
     <fullyQualifiedTypeName name="com.aforo255.account.services.CurrencyService"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="tech.donau.crypto.data.Currency"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.util.concurrent.CompletionStage"/>
     <fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
-    <fullyQualifiedTypeName name="javax.enterprise.context.ApplicationScoped"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
     <fullyQualifiedTypeName name="javax.websocket.Session"/>
     <fullyQualifiedTypeName name="javax.websocket.OnOpen"/>
@@ -32,4 +29,21 @@
     <fullyQualifiedTypeName name="com.aforo255.security.service.TokenService"/>
     <fullyQualifiedTypeName name="com.aforo255.account.domain.Customers"/>
     <fullyQualifiedTypeName name="com.aforo255.account.domain.Customer"/>
+    <fullyQualifiedTypeName name="io.quarkus.mongodb.runtime.MongoClientName"/>
+    <fullyQualifiedTypeName name="io.quarkus.mongodb.panache.MongoEntity"/>
+    <fullyQualifiedTypeName name="org.bson.codecs.pojo.annotations.BsonId"/>
+    <fullyQualifiedTypeName name="io.quarkus.mongodb.panache.PanacheMongoEntityBase"/>
+    <fullyQualifiedTypeName name="io.quarkus.mongodb.panache.PanacheMongoRepositoryBase"/>
+    <fullyQualifiedTypeName name="org.jboss.resteasy.annotations.Query"/>
+    <fullyQualifiedTypeName name="javax.enterprise.context.ApplicationScoped"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.repository.DocumentTransactionRepository"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.aforo255.account.document.DocumentTransaction"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="io.quarkus.arc.ArcUndeclaredThrowableException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>

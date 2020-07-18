@@ -1,7 +1,0 @@
-package com.aforo255.account.domain;
-
-public class Customers {
-	private Integer IdCustomer;	
-	private String FullName;
-	
-}

@@ -1,5 +1,0 @@
-package com.aforo255.security.service;
-
-public class TokenService {
-
-}

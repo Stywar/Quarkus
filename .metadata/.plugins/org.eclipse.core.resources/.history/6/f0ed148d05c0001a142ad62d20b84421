@@ -1,7 +1,0 @@
-# Configuration file
-# key = value
-
-mp.jwt.verify.publickey.location=META-INF/resources/publicKey.pem
-mp.jwt.verify.issuer=DonauTech
-quarkus.smallrye-jwt.enabled=true
-quarkus.http.port=8081

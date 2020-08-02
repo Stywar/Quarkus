@@ -24,8 +24,13 @@ public class ExampleResourceTest {
 	}
 	
 	/*
-	 Nota : Agregar Extension para Kotlin
-	 mvn quarkus:add-extension -Dextensions="kotlin,resteasy-jsonb" 
+	 Nota : Para kotlin crear otro proyecto
+	 mvn io.quarkus:quarkus-maven-plugin:1.6.1.Final:create -Dextensions="kotlin,resteasy-jsonb"
+    
+    -DprojectGroupId=org.acme \
+    -DprojectArtifactId=rest-kotlin-quickstart \
+    -DclassName="org.acme.rest.GreetingResource" \
+    -Dpath="/greeting" \  
 	 
 	  
 	 * */

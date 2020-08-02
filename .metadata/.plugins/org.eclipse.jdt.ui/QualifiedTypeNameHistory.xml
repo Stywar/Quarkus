@@ -47,4 +47,5 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="io.netty.channel.ChannelHandler.Sharable"/>
+    <fullyQualifiedTypeName name="javax.enterprise.inject.Produces"/>
 </qualifiedTypeNameHistroy>

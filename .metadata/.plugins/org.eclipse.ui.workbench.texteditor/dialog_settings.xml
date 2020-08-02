@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="RUN_JAVA_VERSION"/>
+		<item key="selection" value="&lt;plugin&gt;"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="&lt;plugin&gt;"/>
+			<item value="kotlin-maven-plugin"/>
 			<item value="RUN_JAVA_VERSION"/>
 			<item value="JAVA_OPTIONS"/>
 			<item value="run-java"/>

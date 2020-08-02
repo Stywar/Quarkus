@@ -9350,3 +9350,263 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2020-08-01 21:25:42,086 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2020-08-01 21:25:42,091 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-01 21:25:42,091 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:27:39,289 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-01 21:27:54,500 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:27:54,507 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:27:54,523 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:27:54,523 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:27:55,221 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:27:55,225 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:27:55,227 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:27:55,227 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:27:56,514 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:27:56,518 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:27:56,527 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:27:56,527 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Semana1\src\test\resources
+2020-08-01 21:28:02,080 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:28:02,080 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:28:02,083 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:28:02,084 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-bank\src\test\resources
+2020-08-01 21:28:02,391 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:28:02,391 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:28:02,392 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:28:02,392 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Semana1\src\test\resources
+2020-08-01 21:28:07,144 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:28:07,145 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-08-01 21:28:07,148 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:28:07,148 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\aforo255-security\src\test\resources
+2020-08-01 21:30:17,701 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:17,701 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:30:17,703 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:17,703 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:30:26,606 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:26,611 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:30:26,614 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:26,614 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:30:33,423 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 21:30:33,899 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:30:34,891 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Kotlin/src/main/java
+2020-08-01 21:30:34,891 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Kotlin/src/main/resources
+2020-08-01 21:30:34,892 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Kotlin/src/test/java
+2020-08-01 21:30:35,548 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-08-01 21:30:36,875 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:36,876 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:30:36,993 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:36,993 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:30:37,329 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:37,329 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:30:37,330 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:30:37,330 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:31:45,488 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:31:45,488 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:31:45,489 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:31:45,489 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:33:01,697 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 21:33:02,092 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:33:02,952 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Kotlin/src/main/java
+2020-08-01 21:33:02,952 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Kotlin/src/main/resources
+2020-08-01 21:33:02,953 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Kotlin/src/test/java
+2020-08-01 21:33:03,611 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-01 21:33:04,568 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:33:04,570 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:33:04,748 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:33:04,750 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:33:05,165 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:33:05,165 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:33:05,166 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:33:05,166 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:34:17,069 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:34:17,069 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:34:17,070 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:34:17,070 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:34:35,097 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:34:35,098 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:34:35,099 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:34:35,100 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:35:30,354 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:35:30,355 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:35:30,358 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:35:30,359 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:35:32,473 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:35:32,474 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:35:32,475 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:35:32,475 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:38:09,224 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:38:09,225 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:38:09,226 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:38:09,226 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:39:34,227 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:39:35,670 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.5/kotlinx-coroutines-core-1.3.5.pom
+2020-08-01 21:39:35,873 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.5/kotlinx-coroutines-core-1.3.5.pom
+2020-08-01 21:39:36,134 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.5/kotlinx-coroutines-core-1.3.5.jar
+2020-08-01 21:39:37,118 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.5/kotlinx-coroutines-core-1.3.5.jar
+2020-08-01 21:39:37,630 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:39:37,630 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:39:37,631 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:39:37,631 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:39:39,410 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:39:39,411 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:39:39,550 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:39:39,550 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:39:39,830 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.5/kotlinx-coroutines-core-1.3.5-sources.jar
+2020-08-01 21:39:41,828 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.3.5/kotlinx-coroutines-core-1.3.5-sources.jar
+2020-08-01 21:39:41,979 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5
+2020-08-01 21:39:42,380 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.3.72/kotlin-stdlib-1.3.72-sources.jar
+2020-08-01 21:39:42,931 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.3.72/kotlin-stdlib-1.3.72-sources.jar
+2020-08-01 21:39:43,020 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlin:kotlin-stdlib:1.3.72
+2020-08-01 21:39:43,405 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar
+2020-08-01 21:39:43,670 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar
+2020-08-01 21:39:43,767 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains:annotations:13.0
+2020-08-01 21:39:44,162 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.72/kotlin-stdlib-common-1.3.72-sources.jar
+2020-08-01 21:39:44,796 [Worker-13: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.72/kotlin-stdlib-common-1.3.72-sources.jar
+2020-08-01 21:39:44,957 [Worker-13: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlin:kotlin-stdlib-common:1.3.72
+2020-08-01 21:39:46,519 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:39:46,520 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:39:46,645 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:39:46,645 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:44:28,972 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:44:30,230 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:44:30,230 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:44:30,232 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:44:30,232 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:44:32,002 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:44:32,003 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:44:32,014 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:44:32,014 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\Kotlin\src\test\resources
+2020-08-01 21:45:23,102 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/${kotlin.version}/kotlin-maven-plugin-${kotlin.version}.pom
+2020-08-01 21:45:23,114 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:45:23,329 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/${kotlin.version}/kotlin-maven-plugin-${kotlin.version}.jar
+2020-08-01 21:45:23,338 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:45:23,349 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:45:23,359 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:46:08,600 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 21:46:08,637 [Worker-17: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:08,647 [Worker-17: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:08,657 [Worker-17: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:08,664 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:46:09,644 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-01 21:46:10,715 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:10,781 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:10,802 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:26,135 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 21:46:26,170 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:26,178 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:26,184 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:26,192 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:code-with-quarkus:1.0.0-SNAPSHOT @ D:\JAVA\Eclipse\Quarkus\Kotlin\pom.xml.
+2020-08-01 21:46:27,263 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-01 21:46:28,240 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:28,248 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:46:28,257 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 21:58:30,337 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 21:58:30,786 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:rest-kotlin:1.0 @ D:\JAVA\Eclipse\Quarkus\rest-kotlin\pom.xml.
+2020-08-01 21:58:32,034 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/main/java
+2020-08-01 21:58:32,035 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-kotlin/src/main/resources
+2020-08-01 21:58:32,053 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/test/java
+2020-08-01 21:58:32,925 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-08-01 21:58:33,722 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:58:33,723 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:58:33,738 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:58:33,738 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 21:59:01,307 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:59:01,308 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 21:59:01,309 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:59:01,310 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 21:59:11,402 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:59:11,402 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 21:59:11,403 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 21:59:11,403 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:00:01,871 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:00:01,881 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:00:01,891 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:00:01,898 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:rest-kotlin:1.0 @ D:\JAVA\Eclipse\Quarkus\rest-kotlin\pom.xml.
+2020-08-01 22:02:14,270 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 22:02:14,317 [Worker-30: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:02:14,328 [Worker-30: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:02:14,338 [Worker-30: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:02:14,349 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:rest-kotlin:1.0 @ D:\JAVA\Eclipse\Quarkus\rest-kotlin\pom.xml.
+2020-08-01 22:02:15,210 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-01 22:02:15,963 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:02:16,001 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:02:16,010 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jetbrains.kotlin:kotlin-maven-plugin:jar:${kotlin.version} is missing, no dependency information available
+2020-08-01 22:05:59,472 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 22:06:00,318 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.72/kotlin-maven-plugin-1.3.72.pom
+2020-08-01 22:06:00,576 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.72/kotlin-maven-plugin-1.3.72.pom
+2020-08-01 22:06:00,695 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-project/1.3.72/kotlin-project-1.3.72.pom
+2020-08-01 22:06:00,839 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-project/1.3.72/kotlin-project-1.3.72.pom
+2020-08-01 22:06:00,987 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.72/kotlin-maven-plugin-1.3.72.jar
+2020-08-01 22:06:01,350 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/1.3.72/kotlin-maven-plugin-1.3.72.jar
+2020-08-01 22:06:01,919 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:rest-kotlin:1.0 @ D:\JAVA\Eclipse\Quarkus\rest-kotlin\pom.xml.
+2020-08-01 22:06:02,689 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.72/kotlin-stdlib-jdk8-1.3.72.pom
+2020-08-01 22:06:02,949 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.72/kotlin-stdlib-jdk8-1.3.72.pom
+2020-08-01 22:06:03,074 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.72/kotlin-stdlib-jdk7-1.3.72.pom
+2020-08-01 22:06:03,188 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.72/kotlin-stdlib-jdk7-1.3.72.pom
+2020-08-01 22:06:03,551 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/kotlin-extensions/4.3.0/kotlin-extensions-4.3.0.pom
+2020-08-01 22:06:03,703 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/kotlin-extensions/4.3.0/kotlin-extensions-4.3.0.pom
+2020-08-01 22:06:03,824 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/modules/4.3.0/modules-4.3.0.pom
+2020-08-01 22:06:03,991 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/modules/4.3.0/modules-4.3.0.pom
+2020-08-01 22:06:04,290 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.72/kotlin-stdlib-jdk8-1.3.72.jar
+2020-08-01 22:06:04,399 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.72/kotlin-stdlib-jdk7-1.3.72.jar
+2020-08-01 22:06:04,400 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/kotlin-extensions/4.3.0/kotlin-extensions-4.3.0.jar
+2020-08-01 22:06:04,563 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.72/kotlin-stdlib-jdk7-1.3.72.jar
+2020-08-01 22:06:04,683 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/kotlin-extensions/4.3.0/kotlin-extensions-4.3.0.jar
+2020-08-01 22:06:04,685 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.72/kotlin-stdlib-jdk8-1.3.72.jar
+2020-08-01 22:06:05,419 [Worker-30: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/main/kotlin
+2020-08-01 22:06:05,419 [Worker-30: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-kotlin/src/main/resources
+2020-08-01 22:06:05,454 [Worker-30: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/test/kotlin
+2020-08-01 22:06:07,358 [Worker-30: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2020-08-01 22:06:07,369 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.72/kotlin-stdlib-jdk8-1.3.72-sources.jar
+2020-08-01 22:06:07,524 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:06:07,524 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 22:06:07,559 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:06:07,559 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:06:07,664 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.72/kotlin-stdlib-jdk8-1.3.72-sources.jar
+2020-08-01 22:06:07,734 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72
+2020-08-01 22:06:08,209 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.72/kotlin-stdlib-jdk7-1.3.72-sources.jar
+2020-08-01 22:06:09,527 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.72/kotlin-stdlib-jdk7-1.3.72-sources.jar
+2020-08-01 22:06:09,810 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72
+2020-08-01 22:06:10,335 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rest-assured/kotlin-extensions/4.3.0/kotlin-extensions-4.3.0-sources.jar
+2020-08-01 22:06:10,618 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rest-assured/kotlin-extensions/4.3.0/kotlin-extensions-4.3.0-sources.jar
+2020-08-01 22:06:10,679 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:kotlin-extensions:4.3.0
+2020-08-01 22:06:10,687 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72
+2020-08-01 22:06:10,693 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72
+2020-08-01 22:06:10,701 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.rest-assured:kotlin-extensions:4.3.0
+2020-08-01 22:06:11,581 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:06:11,582 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 22:06:11,582 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:06:11,582 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:07:04,458 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 22:07:04,806 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:rest-kotlin:1.0 @ D:\JAVA\Eclipse\Quarkus\rest-kotlin\pom.xml.
+2020-08-01 22:07:05,510 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/main/kotlin
+2020-08-01 22:07:05,510 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-kotlin/src/main/resources
+2020-08-01 22:07:05,510 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/test/kotlin
+2020-08-01 22:07:06,073 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-01 22:07:06,983 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:07:06,984 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 22:07:06,992 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:07:06,993 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:07:08,132 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:07:08,133 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 22:07:08,134 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:07:08,134 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:08:31,182 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:08:31,182 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 22:08:31,183 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:08:31,183 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:08:40,782 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-01 22:08:41,099 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.acme:rest-kotlin:1.0 @ D:\JAVA\Eclipse\Quarkus\rest-kotlin\pom.xml.
+2020-08-01 22:08:41,919 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/main/kotlin
+2020-08-01 22:08:41,920 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rest-kotlin/src/main/resources
+2020-08-01 22:08:41,920 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rest-kotlin/src/test/kotlin
+2020-08-01 22:08:42,534 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-01 22:08:43,144 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:08:43,145 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 22:08:43,150 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:08:43,150 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:08:44,220 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:08:44,221 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-01 22:08:44,221 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:08:44,221 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources
+2020-08-01 22:11:59,074 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:11:59,074 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-08-01 22:11:59,075 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-01 22:11:59,076 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA\Eclipse\Quarkus\rest-kotlin\src\test\resources

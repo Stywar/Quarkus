@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import javax.inject.Inject;
+import javax.json.bind.Jsonb;
+import javax.json.bind.JsonbBuilder;
 import javax.transaction.Transactional;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
@@ -30,7 +32,7 @@ public class DepositResource {
 	
 	@Inject
     @Channel("transaction")
-    Emitter<Transaction> emitter;
+    Emitter<String> emitter;
 	
     @GET
     @Produces(MediaType.TEXT_PLAIN)
@@ -46,7 +48,10 @@ public class DepositResource {
     	Transaction trx = null;
 		Map<String, Object> response = new HashMap<>();
 		trx = service.save(transaction);
-		emitter.send(trx);
+		//emitter.send(trx);
+		 Jsonb create = JsonbBuilder.create();
+		 String json= create.toJson(trx);
+		 emitter.send(json);
 		response.put("mensaje", "Transaccion realizada con exito!");
 		response.put("transaction", trx);
 		return Response.status(Status.CREATED).entity(response).build();

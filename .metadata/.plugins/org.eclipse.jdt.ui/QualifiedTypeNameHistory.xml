@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="io.netty.channel.ChannelHandler.Sharable"/>
-    <fullyQualifiedTypeName name="javax.enterprise.inject.Produces"/>
-    <fullyQualifiedTypeName name="io.quarkus.arc.config.ConfigProperties"/>
-    <fullyQualifiedTypeName name="aforo255.com.config.AccountConfig"/>
-    <fullyQualifiedTypeName name="org.eclipse.microprofile.config.inject.ConfigProperty"/>
-    <fullyQualifiedTypeName name="aforo255.com.config.Base64Value"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
     <fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
@@ -30,7 +21,6 @@
     <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
     <fullyQualifiedTypeName name="org.eclipse.microprofile.faulttolerance.CircuitBreaker"/>
     <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="aforo255.com.entity.Account"/>
     <fullyQualifiedTypeName name="javax.ws.rs.QueryParam"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -60,4 +50,14 @@
     <fullyQualifiedTypeName name="aforo255.account.repository.AccountRepository"/>
     <fullyQualifiedTypeName name="aforo255.account.service.IAccountService"/>
     <fullyQualifiedTypeName name="aforo255.account.consumer.entity.Account"/>
+    <fullyQualifiedTypeName name="javax.enterprise.context.control.ActivateRequestContext"/>
+    <fullyQualifiedTypeName name="io.smallrye.reactive.messaging.annotations.Blocking"/>
+    <fullyQualifiedTypeName name="io.quarkus.hibernate.orm.panache.PanacheRepository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="javax.persistence.LockModeType"/>
+    <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.CompletionStage"/>
+    <fullyQualifiedTypeName name="org.eclipse.microprofile.context.ManagedExecutor"/>
+    <fullyQualifiedTypeName name="org.eclipse.microprofile.context.ThreadContext"/>
 </qualifiedTypeNameHistroy>

@@ -15,7 +15,8 @@ import javax.websocket.server.ServerEndpoint;
 @ApplicationScoped
 public class ChatSocket {
 
-	private final ConcurrentHashMap<String, Session> sessionMap = new ConcurrentHashMap<>();
+	private final ConcurrentHashMap<String, Session>
+	 sessionMap = new ConcurrentHashMap<>();
 
 	@OnOpen
 	public void onOpen(Session session, @PathParam("username") String username) {
@@ -40,11 +41,13 @@ public class ChatSocket {
 	public void onError(Session session, @PathParam("username") String username, Throwable throwable) {
 		sessionMap.remove(username);
 		throwable.printStackTrace();
-		sendMessage(String.format("User %s logged out because of an error", username));
+		sendMessage(String.format("User %s logged out because of
+		 an error", username));
 	}
 
 	public void sendMessage(String message) {
-		sessionMap.values().forEach(it -> it.getAsyncRemote().sendObject(message, sendResult -> {
+		sessionMap.values().forEach(it -> it.getAsyncRemote()
+		.sendObject(message, sendResult -> {
 			if (sendResult.getException() != null) {
 				sendResult.getException().printStackTrace();
 			}

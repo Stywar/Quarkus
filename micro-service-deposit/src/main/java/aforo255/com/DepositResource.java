@@ -32,7 +32,8 @@ public class DepositResource {
 	
 	@Inject
     @Channel("transaction")
-    Emitter<String> emitter;
+    // Emitter<String> emitter;
+	Emitter<Transaction> emitter;
 	
     @GET
     @Produces(MediaType.TEXT_PLAIN)
@@ -51,7 +52,7 @@ public class DepositResource {
 		//emitter.send(trx);
 		 Jsonb create = JsonbBuilder.create();
 		 String json= create.toJson(trx);
-		 emitter.send(json);
+		 emitter.send(trx);
 		response.put("mensaje", "Transaccion realizada con exito!");
 		response.put("transaction", trx);
 		return Response.status(Status.CREATED).entity(response).build();

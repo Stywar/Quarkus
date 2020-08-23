@@ -1,9 +1,9 @@
-#Fri Aug 21 20:33:12 COT 2020
+#Sat Aug 22 11:50:36 COT 2020
 ct=central
 a=showOnStartup
-c=0
+c=1
 s=0
-d=1598059992006
+d=1598115036006
 v=2.2.300.v20200323-1608
 cmp=usage
 cl=N/A
